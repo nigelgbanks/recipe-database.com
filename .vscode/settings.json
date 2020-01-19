@@ -1,0 +1,11 @@
+{
+  "files.autoSave": "afterDelay",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "files.associations": {
+    ".prettierrc": "json"
+  }
+}
