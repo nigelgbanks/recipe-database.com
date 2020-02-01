@@ -5,7 +5,18 @@
   },
   "editor.formatOnSave": true,
   "editor.formatOnType": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll.tslint": true
+  },
   "files.associations": {
     ".prettierrc": "json"
-  }
+  },
+  "javascript.referencesCodeLens.enabled": true,
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ]
 }
